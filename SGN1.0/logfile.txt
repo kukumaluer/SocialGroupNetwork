@@ -1,0 +1,2 @@
+2014-05-01 00:00:12.8725|ERROR|mainlogger|Search index is write locked. Trying to unlock.
+2014-05-01 00:00:12.8864|ERROR|mainlogger|Search index is unlocked.
